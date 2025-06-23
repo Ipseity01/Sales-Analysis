@@ -2,7 +2,7 @@
 This project showcases a complete end-to-end Sales Data Analysis using MySQL Workbench for data querying and Power BI for interactive dashboard visualization.
 ## 📁 Project Files
 
-- `Sales_Data_Analysis.sql` – MySQL schema creation and all analysis queries  
+- `sales data analysis.sql` – MySQL schema creation and all analysis queries  
 - `SalesAnalysis.pbix` – Power BI dashboard with dynamic KPIs and charts  
 - `Sales Data Analysis.csv` – Raw transactional sales dataset (18,000+ rows)
 
